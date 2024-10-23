@@ -1,3 +1,4 @@
 ###
-Este es el readme para el branch de QA
+<<<<<<< HEAD
+Este es el readme para el branch con el merge
 ###
